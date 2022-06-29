@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThadeusCollins
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning java everyday and by going back to school in the Fall.
+- 🌱 I’m currently learning java by studying everyday and by going back to school in the Fall.
 - 💞️ I’m looking to collaborate on... well I frankly don't know. I'm just getting started.
 - 📫 How to reach me: Why if you wish upon a star really hard, maybe your wish will come true
 
